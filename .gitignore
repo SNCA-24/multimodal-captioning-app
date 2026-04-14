@@ -1,0 +1,18 @@
+# OS and editor files
+.DS_Store
+.env
+
+# Python-related files
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Node.js-related files
+node_modules/
+npm-debug.log*
+frontend/build/
+
+# Temporary and generated files
+uploads/
