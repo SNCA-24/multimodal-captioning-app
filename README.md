@@ -1,4 +1,4 @@
-# Image and Video Caption Generator
+# Multimodal Caption Generator
 
 Compact multimodal inference app that captions uploaded images and sampled video frames through a React frontend, a Flask API, and pretrained Hugging Face models.
 
